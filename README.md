@@ -1,4 +1,6 @@
 # Swesty
+[![wercker status](https://app.wercker.com/status/e4688546ca27c957a7791fc6270be71f/s/master "wercker status")](https://app.wercker.com/project/bykey/e4688546ca27c957a7791fc6270be71f)
+
 Swesty is a UMass robot from the South West residential area. She is
 intelligent, independent and seriously smart. She has several features that
 caters to UMass Students and can be connected to any slack team of your choosing

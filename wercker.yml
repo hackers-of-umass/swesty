@@ -10,5 +10,5 @@ deploy:
     - wantedly/pretty-slack-notify:
         webhook_url: $SLACK_WEBHOOK_URL
         channel: tech
-        username: twerkbot
+        username: Twerkbot
 
