@@ -1,0 +1,7 @@
+deploy:
+  steps:
+    - heroku-deploy:
+      key: d9f22a2d-9fc4-440f-8c77-0e948cb0be39
+      user: admin@bsi.io
+      app-name: swesty
+      key-name: 7ba20277c71d1075eb79426ef23f6d174be1d12c4e72a08ca63d14d4c8b2ba9f
